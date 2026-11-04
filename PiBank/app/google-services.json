@@ -1,0 +1,28 @@
+{
+  "project_info": {
+    "project_number": "882903969959",
+    "project_id": "pibank-af59b",
+    "storage_bucket": "pibank-af59b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882903969959:android:8f05764b0a115492ef2b82",
+        "android_client_info": {
+          "package_name": "com.pibank.demo"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHCF-o-Eb01M7_bH3HLJ4Ra7zbiLdiFb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
